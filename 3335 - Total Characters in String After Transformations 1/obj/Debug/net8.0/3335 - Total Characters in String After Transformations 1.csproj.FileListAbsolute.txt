@@ -1,0 +1,14 @@
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\bin\Debug\net8.0\3335 - Total Characters in String After Transformations 1.exe
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\bin\Debug\net8.0\3335 - Total Characters in String After Transformations 1.deps.json
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\bin\Debug\net8.0\3335 - Total Characters in String After Transformations 1.runtimeconfig.json
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\bin\Debug\net8.0\3335 - Total Characters in String After Transformations 1.dll
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\bin\Debug\net8.0\3335 - Total Characters in String After Transformations 1.pdb
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\3335 - Total Characters in String After Transformations 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\3335 - Total Characters in String After Transformations 1.AssemblyInfoInputs.cache
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\3335 - Total Characters in String After Transformations 1.AssemblyInfo.cs
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\3335 - Total Characters in String After Transformations 1.csproj.CoreCompileInputs.cache
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\3335 - Total Characters in String After Transformations 1.dll
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\refint\3335 - Total Characters in String After Transformations 1.dll
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\3335 - Total Characters in String After Transformations 1.pdb
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\3335 - Total Characters in String After Transformations 1.genruntimeconfig.cache
+C:\Users\jonno\Desktop\Projects\LeetCode\3335 - Total Characters in String After Transformations 1\obj\Debug\net8.0\ref\3335 - Total Characters in String After Transformations 1.dll

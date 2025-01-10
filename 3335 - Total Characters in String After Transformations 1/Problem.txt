@@ -1,0 +1,14 @@
+You are given a string s and an integer t, representing the number of transformations to perform. In one transformation, every character in s is replaced according to the following rules:
+
+If the character is 'z', replace it with the string "ab".
+Otherwise, replace it with the next character in the alphabet. For example, 'a' is replaced with 'b', 'b' is replaced with 'c', and so on.
+Return the length of the resulting string after exactly t transformations.
+
+Since the answer may be very large, return it modulo 10^9 + 7.
+
+Solution:
+1. Write a method that returns the next two letters of the alphabet i.e. input = 'n' therefore output = "op".
+2. Return the length of the final string.
+3. Treat the initial string as an array of characters, store each transformation in a new array.
+4. Store remaining characters in above array.
+5. Return array.length % (10^9 + 7)
