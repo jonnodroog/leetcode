@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wfDDC35gxfo=",
+  "dgSpecHash": "N/cAybxq6+w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonno\\Desktop\\Projects\\LeetCode\\3335 - Total Characters in String After Transformations 1\\3335 - Total Characters in String After Transformations 1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Work\\Projects\\LeetCode\\3335 - Total Characters in String After Transformations 1\\3335 - Total Characters in String After Transformations 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonno\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\jonno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\jonno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\jonno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

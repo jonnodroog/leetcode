@@ -1,0 +1,15 @@
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.AssemblyInfoInputs.cache
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.AssemblyInfo.cs
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.csproj.CoreCompileInputs.cache
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.sourcelink.json
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\bin\Debug\net10.0\479. Largest Palindrome Product.exe
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\bin\Debug\net10.0\479. Largest Palindrome Product.deps.json
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\bin\Debug\net10.0\479. Largest Palindrome Product.runtimeconfig.json
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\bin\Debug\net10.0\479. Largest Palindrome Product.dll
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\bin\Debug\net10.0\479. Largest Palindrome Product.pdb
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.dll
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\refint\479. Largest Palindrome Product.dll
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.pdb
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\479. Largest Palindrome Product.genruntimeconfig.cache
+D:\Work\Projects\LeetCode\479. Largest Palindrome Product\obj\Debug\net10.0\ref\479. Largest Palindrome Product.dll
