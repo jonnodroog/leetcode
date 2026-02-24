@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj": {}
+    "D:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj": {}
   },
   "projects": {
-    "d:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj": {
+    "D:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj",
+        "projectUniqueName": "D:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj",
         "projectName": "479. Largest Palindrome Product",
-        "projectPath": "d:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj",
+        "projectPath": "D:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\479. Largest Palindrome Product.csproj",
         "packagesPath": "C:\\Users\\jonno\\.nuget\\packages\\",
-        "outputPath": "d:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\obj\\",
+        "outputPath": "D:\\Work\\Projects\\LeetCode\\479. Largest Palindrome Product\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonno\\AppData\\Roaming\\NuGet\\NuGet.Config"

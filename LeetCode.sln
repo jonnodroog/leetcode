@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3335 - Total Characters in 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "479. Largest Palindrome Product", "479. Largest Palindrome Product\479. Largest Palindrome Product.csproj", "{296C8E38-D644-4BFE-BAFB-2A1F641AE1F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1009. Complement of Base 10 Integer", "1009. Complement of Base 10 Integer", "{9DD52312-081A-CA13-8FFA-4F3567C7E01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009. Complement of Base 10 integer", "1009. Complement of Base 10 Integer\1009. Complement of Base 10 integer.csproj", "{8AEFFC53-62EE-434A-9816-C1B4A6305078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,9 +45,24 @@ Global
 		{296C8E38-D644-4BFE-BAFB-2A1F641AE1F6}.Release|x64.Build.0 = Release|Any CPU
 		{296C8E38-D644-4BFE-BAFB-2A1F641AE1F6}.Release|x86.ActiveCfg = Release|Any CPU
 		{296C8E38-D644-4BFE-BAFB-2A1F641AE1F6}.Release|x86.Build.0 = Release|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Debug|x64.Build.0 = Debug|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Debug|x86.Build.0 = Debug|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Release|x64.ActiveCfg = Release|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Release|x64.Build.0 = Release|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Release|x86.ActiveCfg = Release|Any CPU
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AEFFC53-62EE-434A-9816-C1B4A6305078} = {9DD52312-081A-CA13-8FFA-4F3567C7E01C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBB58FB2-5643-480E-952F-A15676809FF2}

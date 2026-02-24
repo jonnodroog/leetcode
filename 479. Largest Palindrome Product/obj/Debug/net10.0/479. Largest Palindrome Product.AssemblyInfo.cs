@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("479. Largest Palindrome Product")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc7a93930bb410418e4f4be1dea91a15f7fbbb59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4cca3eb8649686ed64ef3d75df7f02a909e95c")]
 [assembly: System.Reflection.AssemblyProductAttribute("479. Largest Palindrome Product")]
 [assembly: System.Reflection.AssemblyTitleAttribute("479. Largest Palindrome Product")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
